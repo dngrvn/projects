@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.DataBases/DataBases.csproj": {}
+    "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.DataBases/DataBases.csproj": {}
   },
   "projects": {
-    "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.DataBases/DataBases.csproj": {
+    "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.DataBases/DataBases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.DataBases/DataBases.csproj",
+        "projectUniqueName": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.DataBases/DataBases.csproj",
         "projectName": "DataBases",
-        "projectPath": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.DataBases/DataBases.csproj",
+        "projectPath": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.DataBases/DataBases.csproj",
         "packagesPath": "/Users/dnkrshvch/.nuget/packages/",
-        "outputPath": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.DataBases/obj/",
+        "outputPath": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.DataBases/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dnkrshvch/.nuget/NuGet/NuGet.Config"

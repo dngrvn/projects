@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.Core/Core.csproj",
+      "projectUniqueName": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.Core/Core.csproj",
+      "projectPath": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.Core/Core.csproj",
       "packagesPath": "/Users/dnkrshvch/.nuget/packages/",
-      "outputPath": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.Core/obj/",
+      "outputPath": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dnkrshvch/.nuget/NuGet/NuGet.Config"

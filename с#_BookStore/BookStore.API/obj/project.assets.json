@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.API/MyApi.csproj",
+      "projectUniqueName": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.API/MyApi.csproj",
       "projectName": "MyApi",
-      "projectPath": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.API/MyApi.csproj",
+      "projectPath": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.API/MyApi.csproj",
       "packagesPath": "/Users/dnkrshvch/.nuget/packages/",
-      "outputPath": "/Users/dnkrshvch/Documents/GitHub/project/с#_BookStore/BookStore.API/obj/",
+      "outputPath": "/Users/dnkrshvch/Documents/GitHub/projects/с#_BookStore/BookStore.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dnkrshvch/.nuget/NuGet/NuGet.Config"
